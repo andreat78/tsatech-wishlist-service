@@ -1,0 +1,14 @@
+com/newproject/wishlist/error/GlobalApiExceptionHandler.class
+com/newproject/wishlist/config/SecurityConfig.class
+com/newproject/wishlist/dto/WishlistItemRequest.class
+com/newproject/wishlist/exception/NotFoundException.class
+com/newproject/wishlist/events/DomainEvent.class
+com/newproject/wishlist/controller/WishlistController.class
+com/newproject/wishlist/WishlistServiceApplication.class
+com/newproject/wishlist/repository/WishlistItemRepository.class
+com/newproject/wishlist/domain/WishlistItem.class
+com/newproject/wishlist/service/WishlistService.class
+com/newproject/wishlist/security/RequestActor.class
+com/newproject/wishlist/events/EventPublisher.class
+com/newproject/wishlist/error/ApiErrorResponse.class
+com/newproject/wishlist/dto/WishlistItemResponse.class

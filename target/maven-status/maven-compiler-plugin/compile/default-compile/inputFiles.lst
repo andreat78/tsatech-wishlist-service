@@ -1,0 +1,14 @@
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/wishlist-service/src/main/java/com/newproject/wishlist/WishlistServiceApplication.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/wishlist-service/src/main/java/com/newproject/wishlist/config/SecurityConfig.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/wishlist-service/src/main/java/com/newproject/wishlist/controller/WishlistController.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/wishlist-service/src/main/java/com/newproject/wishlist/domain/WishlistItem.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/wishlist-service/src/main/java/com/newproject/wishlist/dto/WishlistItemRequest.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/wishlist-service/src/main/java/com/newproject/wishlist/dto/WishlistItemResponse.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/wishlist-service/src/main/java/com/newproject/wishlist/error/ApiErrorResponse.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/wishlist-service/src/main/java/com/newproject/wishlist/error/GlobalApiExceptionHandler.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/wishlist-service/src/main/java/com/newproject/wishlist/events/DomainEvent.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/wishlist-service/src/main/java/com/newproject/wishlist/events/EventPublisher.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/wishlist-service/src/main/java/com/newproject/wishlist/exception/NotFoundException.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/wishlist-service/src/main/java/com/newproject/wishlist/repository/WishlistItemRepository.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/wishlist-service/src/main/java/com/newproject/wishlist/security/RequestActor.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/wishlist-service/src/main/java/com/newproject/wishlist/service/WishlistService.java
